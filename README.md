@@ -1,14 +1,26 @@
-# 🧑‍🍳 Como fazer Podcast e Guias de Estudo com NotebookLM (sabor Modelos Estatísticos)
+# 🧑‍🍳 Receita Prática: Podcasts e Guias de Estudo com NotebookLM </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*— sabor Modelos Estatísticos aplicados ao Mercado Financeiro*
 
 Este é um livro de receitas que te ajuda a transformar materiais brutos das principais referências bibliográficas de Ciência de Dados em **Podcasts (Audio Overviews)** e **Guias de Estudo** direcionados. 
 
-Embora o exemplo prático deste guia foque no entendimento de **Modelos Estatísticos**, a metodologia é universal. Sinta-se livre para adaptar a receita e utilizar os ingredientes de sua preferência para acelerar os estudos sobre qualquer assunto!
+Embora o exemplo prático deste guia foque no entendimento de **Modelos Estatísticos** e suas aplicações no **Mercado Financeiro**, a metodologia é universal. 
+
+Sinta-se livre para adaptar a receita e utilizar os ingredientes de sua preferência para **acelerar os estudos sobre qualquer assunto**!
 
 ---
 
 ## 🥣​ Ingredientes
 
 Para alimentar o modelo e iniciar o preparo, você precisará de uma ou mais das seguintes fontes de dados:
+* [**Estatística Computacional em Python** – Daniel Furtado Ferreira](https://des.ufla.br/~danielff/meusarquivospdf/ECPython.pdf)
+* [**Estatística Prática para Cientistas de Dados** – Peter Bruce](https://datapot.vn/wp-content/uploads/2023/12/datapot.vn-Practical-Statistics-for-Data-Scientists.pdf)
+* [**Estatística Básica** – Wilton O. Bussab e Pedro A. Morettin](https://www.professores.uff.br/jutriavaldes/wp-content/uploads/sites/196/2019/08/Book_EstatBas-Morettin-Bussab.pdf)
+* [**Applied Linear Statistical Models** – Michael H. Kutner, et al.](https://d1b10bmlvqabco.cloudfront.net/attach/is282rqc4001vv/is6ccr3fl0e37q/iwfnjvgvl53z/Michael_H_Kutner_Christopher_J._Nachtsheim_JohnBookFi.org.pdf)
+* [**Think Stats** – Allen B. Downey](https://greenteapress.com/thinkstats/thinkstats.pdf)
+* [**A Arte da Estatística** – David Spiegelhalter](https://github.com/LTS-tech-community/data-science-resources/blob/main/pdfcoffee.com_david-spiegelhalter-learning-from-data-the-art-of-statistics-pelican-2019-pdf-free.pdf)
+* **Bayesian Statistical Modeling with Stan, R, and Python** – Kentaro Matsuura
+* [**Modelos Lineares Generalizados e Extensões** – Gauss Moutinho Cordeiro](https://www2.ufjf.br/clecio_ferreira/wp-content/uploads/sites/234/2013/05/Livro-Gauss-e-Clarice.pdf)
+
+Os ingredientes acima podem ser substituídos por:
 * Documentos de texto (PDFs, Google Docs, Markdown)
 * Links e URLs (artigos, documentações técnicas ou posts de blogs)
 * Transcrições de vídeos do YouTube ou arquivos de áudio
@@ -16,16 +28,16 @@ Para alimentar o modelo e iniciar o preparo, você precisará de uma ou mais das
 
 ---
 
-## 🍳 Modo de Preparo
+## 🍲​ Modo de Preparo
 
-### 🗺️ Configurações Iniciais
+### 🍅​ Configurações Iniciais
 1. Acesse a plataforma oficial: [NotebookLM](https://notebooklm.google.com).
 2. Crie um novo **Notebook**.
 3. Faça o upload dos seus **Ingredientes** (fontes de dados) e aguarde o carregamento completo antes de prosseguir:
    
    <img src="https://github.com/user-attachments/assets/282db75b-803c-4a5e-821d-231588e95d05" alt="Print da interface do NotebookLM mostrando a fonte de dados carregada" width="400" />
 
-### 🎙️ Geração de Podcast (Audio Overview)
+### 🍝 Geração de Podcast (Audio Overview)
 1. Na interface do NotebookLM, localize a seção de geração de áudio e clique no botão para iniciar o processo:
    
    <img src="https://github.com/user-attachments/assets/bfe23238-9776-4f6c-a51c-7efe81d3c68e" alt="Botão de geração de Podcast" width="150" />
@@ -34,7 +46,7 @@ Para alimentar o modelo e iniciar o preparo, você precisará de uma ou mais das
    
    <img src="https://github.com/user-attachments/assets/20c4f3fb-e6f6-48eb-ae4f-f257c8088a0d" alt="Opções de customização do Áudio" width="400" />
 
-### 📖 Geração do Guia de Estudos
+### 🍜​ Geração do Guia de Estudos
 1. Ainda no estúdio do NotebookLM, localize a seção de Relatórios e clique no botão para iniciar o processo:
    
    <img src="https://github.com/user-attachments/assets/fda4c531-d959-4379-b139-19cefdf128b7" alt="Botão de geração de Relatório" width="150" />
@@ -53,9 +65,11 @@ Para alimentar o modelo e iniciar o preparo, você precisará de uma ou mais das
 
 Para extrair o potencial máximo do seu repositório de dados, utilize o chat interativo do NotebookLM. Você pode copiar as receitas de prompts prontas abaixo:
 
-### 1. Validação de Conceitos (Mentalidade Data-Driven)
+### 1. Entendendo os Principais Modelos Estatísticos do Mercado Financeiro
 ```text
-Com base nas fontes fornecidas, crie um resumo executivo explicando a diferença prática e os casos de uso entre Modelos de Regressão e Modelos de Séries Temporais.
+Explique os principais modelos utilizados por instituições financeiras.
+Para cada modelo citado, descreva brevemente seu conceito, um exemplo de aplicação e como praticar em python.
+Utilize linguagem simples, o seu público alvo é um estudante de dados no nível básico.
 ```
 
 ### 2. Simulação de Exames e Questões
