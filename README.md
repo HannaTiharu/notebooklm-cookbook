@@ -1,4 +1,4 @@
-# 🧑‍🍳 Receita Prática de NotebookLM </br> &nbsp;&nbsp; *sabor Modelos Estatísticos aplicados ao Mercado Financeiro*
+# 🧑‍🍳 Receita Prática de NotebookLM </br> *sabor Modelos Estatísticos aplicados ao Mercado Financeiro*
 
 Este é um livro de receitas que te ajuda a transformar materiais brutos das principais referências bibliográficas de Ciência de Dados em **Podcasts (Audio Overviews)** e **Guias de Estudo** direcionados. 
 
