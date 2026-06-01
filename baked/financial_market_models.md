@@ -1,10 +1,10 @@
-# 📊 Caso Prático: Modelos Estatísticos no Mercado Financeiro
+# Prato Feito: Modelos Estatísticos no Mercado Financeiro
 
 Esta seção registra uma das interações realizadas no chat interativo do NotebookLM, simulando um estudo direcionado para o mercado financeiro com foco em estudantes iniciantes.
 
 ---
 
-## 📥 Instrução Enviada (Prompt)
+## Prompt Utilizado
 
 > **Instrução:** Explique os principais modelos utilizados por instituições financeiras.  
 > **Conteúdo principal:** Para cada modelo citado, descreva brevemente seu conceito, um exemplo de aplicação e como praticar em Python.  
@@ -12,7 +12,7 @@ Esta seção registra uma das interações realizadas no chat interativo do Note
 
 ---
 
-## 🍳 Resposta Gerada pela IA
+## Resposta Gerada pela IA
 
 As instituições financeiras utilizam modelos estatísticos para transformar grandes volumes de dados em decisões estratégicas, como conceder crédito ou prever lucros. Para um estudante de dados, entender esses modelos é fundamental.
 
@@ -38,15 +38,6 @@ Abaixo estão os principais modelos, explicados de forma simples:
 * **Exemplo de Aplicação:** Um fundo de investimento pode calcular a probabilidade de queda da bolsa e, ao receber uma nova notícia (como a alta do dólar), usar o modelo para atualizar essa previsão de risco.
 * **Como praticar em Python:** Existem bibliotecas avançadas para isso, como o `PyStan` (interface para Stan) mencionada nas fontes.
 
----
-
-## 💡 Resumo para Prática (Dica do Chef)
-
-Como iniciante, o seu foco deve ser dominar as seguintes ferramentas:
-
-| Biblioteca | Função Principal no Desenvolvimento |
-| :--- | :--- |
-| **Pandas** | Manipular, limpar e organizar as tabelas de dados. |
-| **Scikit-learn** | Aplicar na prática os modelos de regressão e classificação. |
-
-> 🔍 **Nota de Validação:** A análise dos **resíduos** (a diferença entre o que o modelo previu e o que realmente aconteceu) é o que dirá se o seu modelo é bom ou precisa de novos ajustes.
+### Resumo para Prática
+Como iniciante, o seu foco deve ser dominar as bibliotecas Pandas (para manipular as tabelas de dados) e Scikit-learn (para aplicar os modelos de regressão e classificação) 
+A análise dos "resíduos" (a diferença entre o que o modelo previu e o que realmente aconteceu) é o que dirá se o seu modelo é bom ou precisa de ajustes
