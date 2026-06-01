@@ -1,4 +1,4 @@
-# Prato Feito: Modelos Estatísticos no Mercado Financeiro
+# Prompt: Modelos Estatísticos no Mercado Financeiro
 
 Esta seção registra uma das interações realizadas no chat interativo do NotebookLM, simulando um estudo direcionado para o mercado financeiro com foco em estudantes iniciantes.
 
